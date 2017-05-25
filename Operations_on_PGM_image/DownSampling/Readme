@@ -1,0 +1,4 @@
+
+Sample Run:-
+
+./DownSample ../mountain.ascii.pgm new.pgm

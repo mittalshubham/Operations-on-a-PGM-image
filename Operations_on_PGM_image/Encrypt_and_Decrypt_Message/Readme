@@ -1,0 +1,7 @@
+
+Sample Run:-
+
+./HideMessage new.pgm Hello, my name is Shubham Mittal.
+
+
+./ReadMessage new.pgm

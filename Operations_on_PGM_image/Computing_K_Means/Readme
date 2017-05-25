@@ -1,0 +1,7 @@
+
+Sample Run:-
+
+./ComputeKMeans ../mountain.ascii.pgm 5 new
+
+
+The program doesn't remove earlier images in the folder but overwrites them so, please be careful.
