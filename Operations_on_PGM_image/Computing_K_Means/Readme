@@ -3,5 +3,6 @@ Sample Run:-
 
 ./ComputeKMeans ../mountain.ascii.pgm 5 new
 
+Here,"new" is the name of the folder in which the images are to be stored after processing.
 
 The program doesn't remove earlier images in the folder but overwrites them so, please be careful.
